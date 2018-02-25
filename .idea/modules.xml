@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Command/Command.iml" filepath="$PROJECT_DIR$/Command/Command.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Design Patterns.iml" filepath="$PROJECT_DIR$/.idea/modules/Design Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Design_Patterns.iml" filepath="$PROJECT_DIR$/.idea/modules/Design_Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Design_Patterns_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Design_Patterns_main.iml" group="Design_Patterns" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Design_Patterns_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Design_Patterns_test.iml" group="Design_Patterns" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Factory.iml" filepath="$PROJECT_DIR$/.idea/modules/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Factory.iml" filepath="$PROJECT_DIR$/.idea/modules/Factory.iml" group="Factory" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Factory/Factory_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Factory/Factory_main.iml" group="Factory" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Factory/Factory_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Factory/Factory_test.iml" group="Factory" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Interpreter.iml" filepath="$PROJECT_DIR$/.idea/modules/Interpreter.iml" group="Interpreter" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Interpreter/Interpreter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Interpreter/Interpreter_main.iml" group="Interpreter" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Interpreter/Interpreter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Interpreter/Interpreter_test.iml" group="Interpreter" />

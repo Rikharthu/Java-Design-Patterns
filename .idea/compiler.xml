@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="Design_Patterns_main" target="1.8" />
       <module name="Design_Patterns_test" target="1.8" />
+      <module name="Factory_main" target="1.8" />
+      <module name="Factory_test" target="1.8" />
       <module name="Interpreter_main" target="1.8" />
       <module name="Interpreter_test" target="1.8" />
       <module name="Proxy_main" target="1.8" />
