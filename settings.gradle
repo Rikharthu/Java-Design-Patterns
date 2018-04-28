@@ -1,4 +1,5 @@
 rootProject.name = 'Design Patterns'
 include 'Interpreter'
 include 'Factory'
+include 'Chain of Responsibility'
 
